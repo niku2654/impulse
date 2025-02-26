@@ -1,0 +1,250 @@
+/* *{
+    border: 2px solid brown;
+} */
+.A-1 {
+    background-image: url(../images/illustrattion/photo-1490129375591-2658b3e2ee50.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    /* Adjust as needed */
+    color: white;
+    background-repeat: no-repeat;
+}
+nav{
+    padding-top: 30px;
+}
+.A-1 h1 {
+    font-size: 24px;
+    font-family: Overpass, sans-serif;
+    padding-top: 20px;
+    font-weight: 700;
+    line-height: 36px;
+    color: aliceblue;
+}
+.a-1 {
+    padding-top: 20px;
+}
+.A-1 h2 {
+    font-size: 60px;
+    font-family: "Playfair Display", serif;
+    padding-top: 10px;
+    font-weight: 700;
+    line-height: 60px;
+    padding-top: 200px;
+    text-align: center;
+}
+.a-2 {
+    padding-top: 50px;
+
+
+}
+.a-3 p {
+    font-family: "Fira Sans Condensed", serif;
+    color: white;
+    padding-top: 100px;
+    text-decoration: underline;
+
+}
+.a-4 p {
+    font-family: "Fira Sans Condensed", serif;
+    color: white;
+    padding-top: 100px;
+    text-decoration: underline;
+
+
+}
+.A-2 {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.A-2 h2 {
+    color:
+        rgb(55, 65, 81);
+    font-size: 36px;
+    font-family: "Playfair Display", serif;
+    padding-top: 10px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+
+}
+.A-2 p {
+    color:
+        rgb(75, 85, 99);
+    font-size: 16px;
+    font-family: Overpass, sans-serif;
+    font-weight: 300;
+    line-height: 24px;
+    padding-top: 10px;
+    text-align: justify;
+}
+.A-2.a-2 {
+    padding-bottom: 20px;
+}
+.a-5 {
+    background-color: #F3F4F6;
+}
+.A-3 {
+    background-image: url(../images/illustrattion/photo-1501901609772-df0848060b33.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* Adjust as needed */
+    color: white;
+    background-repeat: no-repeat;
+
+}
+.A-4 h2 {
+    color:
+        rgb(75, 85, 99);
+    font-size: 48px;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    line-height: 48px;
+    padding-top: 10px;
+    text-align: center;
+}
+.A-4 p {
+    color:
+        rgb(75, 85, 99);
+    font-size: 16px;
+    font-family: Overpass, sans-serif;
+    font-weight: 300;
+    line-height: 26px;
+    padding-top: 10px;
+    text-align: center;
+}
+.A-4 hr {
+    width: 70px;
+    color: #92400E;
+}
+.A-5 {
+    padding-bottom: 30px;
+}
+.A-6 {
+    padding-bottom: 30px;
+}
+.A-6 h2 {
+    color:
+        rgb(75, 85, 99);
+    font-size: 36px;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    line-height: 40px;
+    padding-top: 10px;
+    text-align: center;
+}
+.A-6 p {
+    color:
+        rgb(75, 85, 99);
+    font-size: 16px;
+    font-family: Overpass, sans-serif;
+    font-weight: 300;
+    line-height: 24px;
+    padding-top: 10px;
+    text-align: justify;
+}
+.B-1 {
+    background-image: url(../images/illustrattion/photo-1503516459261-40c66117780a.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    /* Adjust as needed */
+    color: white;
+    background-repeat: no-repeat;
+
+}
+.B-1 h2 {
+    font-size: 36px;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    line-height: 30px;
+    padding-top: 100px;
+    text-align: center;
+}
+.B-1 p {
+    font-size: 18px;
+    font-family: Overpass, sans-serif;
+    font-weight: 700;
+    line-height: 28px;
+    padding-top: 20px;
+    text-align: center;
+}
+.b-1 {
+    padding-top: 30px;
+}
+.B-2 {
+    background-color: #414652;
+}
+.b-2 h2 {
+    color: #A0A3A9;
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-size: 36px;
+    padding-top: 50px;
+    text-align: center;
+}
+.b-3 p {
+    text-align: center;
+    line-height: 10px;
+    font-family: Overpass, sans-serif;
+    font-size: 12px;
+    color:
+        rgba(255, 255, 255, 0.4);
+}
+.b-3 h3 {
+    color: #A0A3A9;
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 50px;
+    text-align: center;
+}
+.b-4 h3 {
+    color: #A0A3A9;
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 50px;
+    text-align: center;
+
+}
+.b-4 p {
+    text-align: center;
+    line-height: 10px;
+    font-family: Overpass, sans-serif;
+    font-size: 12px;
+    color:
+        rgba(255, 255, 255, 0.4);
+}
+.b-5 h3 {
+    color: #A0A3A9;
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding-top: 50px;
+    text-align: center;
+}
+.b-5 p {
+    text-align: center;
+    line-height: 10px;
+    font-family: Overpass, sans-serif;
+    font-size: 12px;
+    color:
+        rgba(255, 255, 255, 0.4);
+}
+.b-6 p{
+    text-align: center;
+    line-height: 10px;
+    font-family: "Fira Sans Condensed", serif;
+    font-size: 16px;
+    color:
+        rgba(255, 255, 255, 0.4);
+        padding-top: 50px;
+}
+.a-6 {
+    padding-top: 20px;
+}
+.a-7 {
+    background-color: #F3F4F6;
+}

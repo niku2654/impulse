@@ -1,0 +1,14 @@
+.B-1{
+    background-color: #7F3F1B;
+}
+.B-1 h1{
+    font-size: 24px;
+    font-family: Overpass, sans-serif;
+    padding-top: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    color: aliceblue;
+}
+.b-1{
+    padding-top: 20px;
+}

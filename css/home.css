@@ -1,0 +1,28 @@
+*{
+    background-color: #E4D7CF;
+}
+.B-1{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #92400E;
+}
+.B-2{
+
+    padding-top: 150px;
+}
+.B-2 h2{
+    color: #92400E;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Overpass, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+}
+@media (min-width:1024px){
+    
+    .B-2{
+        padding-top: 150px;
+    }
+
+}
